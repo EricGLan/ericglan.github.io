@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Lan]
-  first_name: [Guangchen (Eric)]
+  first_name: [Guangchen]
 
   style: apa
   locale: en
