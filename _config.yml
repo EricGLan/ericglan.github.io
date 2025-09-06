@@ -643,11 +643,12 @@ jsonresume:
   - work
   - education
   - publications
+  - academic
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
   - languages
   - interests
+  - volunteer
   - references
