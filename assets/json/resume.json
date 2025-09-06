@@ -29,8 +29,8 @@
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
       "endDate": "2025-11",
-      "mentor": "Dr. Lian Xiong, Dr. Binxuan Huang, Dr. Lihong Li",
-      "summary": "LLM post-training.",
+      "mentor": "Mentor: Dr. Lian Xiong, Dr. Binxuan Huang, Dr. Lihong Li",
+      "summary": "Topic: LLM post-training.",
       "highlights": ["Relativity"]
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.microsoft.com/en-us/research/",
       "startDate": "2025-03",
       "endDate": "2025-05",
-      "mentor": "Dr. Huseyin A. Inan, Dr. Robert Sim",
-      "summary": "LLM Agent Safety via Reasoning & Reinforcement Learning.",
+      "mentor": "Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
+      "summary": "Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
       "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025"]
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.tencent.com/en-us/about.html",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      "mentor": "Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
-      "summary": "RLHF for LLM & Diffusion Alignment.",
+      "mentor": "Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
+      "summary": "Topic: RLHF for LLM & Diffusion Alignment.",
       "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. TMLR"]
     }
   ],
