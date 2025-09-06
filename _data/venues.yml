@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NeurIPS 2025":
+  url: https://neurips.cc/
+  color: "#be0d3c"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NeurIPS 2023":
+  url: https://neurips.cc/
+  color: "#faa41b"
 
-"Vision":
-  color: "#009f36"
+"ICLR 2025":
+  url: https://iclr.cc/
+  color: "#00435c"
+  
+"TMLR":
+  color: "#be0d3c"
+  
+"arXiv":
+  color: "#5bc5cf"
+  
+"IEEE Trans":
+  color: "#ddc035"
