@@ -76,6 +76,15 @@
       "endDate": "2021-12"
     },
     {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://www.berkeley.edu/",
+      "area": "EECS",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-06",
+      "endDate": "2020-07"
+    },
+    {
       "institution": "Xi'an Jiaotong University",
       "location": "Xi'an, CN",
       "url": "https://www.purdue.edu/",
@@ -83,6 +92,35 @@
       "studyType": "Bachelor of Science",
       "startDate": "2016-08",
       "endDate": "2020-07"
+    }
+  ],
+  "Academic Experience": [
+    {
+      "name": "Reviewer",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "NeurIPS 2025, 2024 (Top Reviewer)", 
+        "ICLR 2024-2026", 
+        "ICML 2025", 
+        "ICCV 2025", 
+        "AISTATS 2024 - 2026", 
+        "AAAI 2024 - 2026", 
+        "IEEE Global Communications Conference 2023",
+        "Transactions on Machine Learning Research (TMLR)",
+        "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
+        "IEEE Transactions on Mobile Computing",
+        "IEEE Transactions on Networking",
+        "IEEE Transactions on Signal Processing",
+        "IEEE Journal on Selected Areas in Communications (Reinforcement Learning track)",
+        "IEEE Journal of Selected Topics in Signal Processing (Reinforcement Learning track)"
+      ]
+    },
+    {
+      "name": "Area Chair",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "IEEE International Conference on Communications 2024 Workshop on Edge Learning"
+      ]
     }
   ],
   "awards": [
