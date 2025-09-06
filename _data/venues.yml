@@ -1,12 +1,12 @@
-"NeurIPS 2025":
+"NeurIPS&nbsp;2025":
   url: https://neurips.cc/
   color: "#be0d3c"
 
-"NeurIPS 2023":
+"NeurIPS&nbsp;2023":
   url: https://neurips.cc/
   color: "#be0d3c"
 
-"ICLR 2025":
+"ICLR&nbsp;2025":
   url: https://iclr.cc/
   color: "#faa41b"
   
@@ -16,5 +16,5 @@
 "arXiv":
   color: "#5bc5cf"
   
-"IEEE Trans":
+"IEEE&nbsp;Trans":
   color: "#8193be"
