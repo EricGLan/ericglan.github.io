@@ -42,7 +42,7 @@
       "endDate": "2025-05",
       "mentor": "Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
       "summary": "Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
-      "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. **NeurIPS** 2025."]
+      "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."]
     },
     {
       "name": "Tencent America",
@@ -53,7 +53,7 @@
       "endDate": "2024-08",
       "mentor": "Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
       "summary": "Topic: RLHF for LLM & Diffusion Alignment.",
-      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. **TMLR**."]
+      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."]
     }
   ],
   "education": [
@@ -73,7 +73,7 @@
       "area": "Artificial Intelligence",
       "studyType": "Master of Science",
       "startDate": "2020-07",
-      "endDate": "2021-12"
+      "endDate": "2022-02"
     },
     {
       "institution": "University of California, Berkeley",
