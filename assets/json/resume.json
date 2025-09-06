@@ -24,6 +24,7 @@
   "work": [
     {
       "name": "Amazon",
+      "location": "Seattle, WA",
       "position": "Applied Scientist Intern",
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
@@ -33,6 +34,7 @@
     },
     {
       "name": "Microsoft Research",
+      "location": "Redmond, WA",
       "position": "Research Scientist Intern",
       "url": "https://www.microsoft.com/en-us/research/",
       "startDate": "2025-03",
@@ -42,6 +44,7 @@
     },
     {
       "name": "Tencent America",
+      "location": "Bellevue, WA",
       "position": "Research Scientist Intern at Tencent AI Lab",
       "url": "https://www.tencent.com/en-us/about.html",
       "startDate": "2024-05",
