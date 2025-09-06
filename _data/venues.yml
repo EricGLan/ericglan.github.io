@@ -4,17 +4,17 @@
 
 "NeurIPS 2023":
   url: https://neurips.cc/
-  color: "#faa41b"
+  color: "#be0d3c"
 
 "ICLR 2025":
   url: https://iclr.cc/
-  color: "#00435c"
+  color: "#faa41b"
   
 "TMLR":
-  color: "#be0d3c"
+  color: "#00435c"
   
 "arXiv":
   color: "#5bc5cf"
   
 "IEEE Trans":
-  color: "#ddc035"
+  color: "#8193be"
