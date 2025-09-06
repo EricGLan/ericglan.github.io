@@ -47,18 +47,18 @@
       "location": "New York, NY",
       "url": "https://www.purdue.edu/",
       "area": "AI",
-      "studyType": "PhD",
-      "startDate": "2022-08",
-      "endDate": "2026-06"
+      "studyType": "MS",
+      "startDate": "2020-07",
+      "endDate": "2021-12"
     },
     {
       "institution": "Xi'an Jiaotong University",
       "location": "Xi'an, CN",
       "url": "https://www.purdue.edu/",
-      "area": "AI",
-      "studyType": "PhD",
-      "startDate": "2022-08",
-      "endDate": "2026-06"
+      "area": "Electronics Engineering",
+      "studyType": "BE",
+      "startDate": "2016-08",
+      "endDate": "2020-07"
     }
   ],
   "awards": [
@@ -70,62 +70,45 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", 
+        "C/C++", 
+        "JavaScript/TypeScript", 
+        "HTML/CSS", 
+        "Solidity", 
+        "MATLAB",
+        "LaTex"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "VERL",
+        "PyTorch", 
+        "TensorFlow", 
+        "Ray/RLlib", 
+        "Sklearn", 
+        "NumPy", 
+        "Pandas", 
+        "MySQL", 
+        "MongoDB", 
+        "Git/GitHub", 
+        "Unix/Linux Shell", 
+        "Docker", 
+        "AWS", 
+        "Azure", 
+        "Google Cloud", 
+        "Hugging Face", 
+        "DeepSpeed", 
+        "Megatron-LM", 
+        "FSDP"
       ]
     }
   ],
@@ -143,15 +126,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "casual",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Chess (Provincial Silver Medal)",
+        "Board Games", 
+        "Powerlifting (PR: Deadlift 445 lbs.)", 
+        "Bodybuilding",
+        "Skiing", 
+        "Hiking"
       ]
     }
   ],
