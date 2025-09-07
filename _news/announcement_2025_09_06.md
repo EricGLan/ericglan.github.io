@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hello World! The new personal website has been launched.
+Hello World! The new personal website has been launched. :smile:
