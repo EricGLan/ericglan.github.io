@@ -29,9 +29,9 @@
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
       "endDate": "2025-11",
-      "mentor": "Mentor: Dr. Lian Xiong, Dr. Binxuan Huang, Dr. Lihong Li",
-      "summary": "Topic: LLM post-training.",
-      "highlights": ["Relativity"]
+      "mentor": "☕️ Mentor: Dr. Lian Xiong, Dr. Binxuan Huang, Dr. Lihong Li",
+      "summary": "🚀 Topic: LLM post-training.",
+      "highlights": ["TBD"]
     },
     {
       "name": "Microsoft Research",
@@ -40,8 +40,8 @@
       "url": "https://www.microsoft.com/en-us/research/",
       "startDate": "2025-03",
       "endDate": "2025-05",
-      "mentor": "Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
-      "summary": "Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
+      "mentor": "☕️ Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
+      "summary": "🚀 Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
       "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."]
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.tencent.com/en-us/about.html",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      "mentor": "Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
-      "summary": "Topic: RLHF for LLM & Diffusion Alignment.",
+      "mentor": "☕️ Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
+      "summary": "🚀 Topic: RLHF for LLM & Diffusion Alignment.",
       "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."]
     }
   ],
@@ -70,7 +70,7 @@
       "institution": "Columbia University",
       "location": "New York, NY",
       "url": "https://www.purdue.edu/",
-      "area": "Artificial Intelligence",
+      "area": "Machine Learning",
       "studyType": "Master of Science",
       "startDate": "2020-07",
       "endDate": "2022-02"
@@ -141,6 +141,16 @@
       "awarder": "Xi’an Jiaotong University"
     }
   ],
+  "projects": [
+    {
+      "name": "ElegantRL",
+      "summary": "ElegantRL implements several model-free deep reinforcement learning (DRL) algorithms as the DRL agent layer for FinRL.",
+      "highlights": ["Core Contributor"],
+      "startDate": "2021-10",
+      "endDate": "2023-04",
+      "url": "https://elegantrl.readthedocs.io/en/latest/"
+    }
+  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -207,16 +217,6 @@
         "Skiing", 
         "Hiking"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
