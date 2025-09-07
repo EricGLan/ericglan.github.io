@@ -6,6 +6,7 @@
     "phone": "+1 (917) 371-1980",
     "url": "https://ericglan.github.io/",
     "summary": "A PhD candidate at Purdue University, working on AI research.",
+    "scholar": 
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -15,10 +16,20 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "guangchen-lan",
+        "url": "https://www.linkedin.com/in/guangchen-lan-97420017b/"
+      },
+      {
+        "network": "GitHub",
+        "username": "EricGLan",
+        "url": "https://github.com/EricGLan"
+      },
+      {
         "network": "Twitter",
         "username": "EricGLan",
         "url": "https://twitter.com/EricGLan"
-      }
+      },
     ]
   },
   "work": [
