@@ -97,6 +97,7 @@
   "Academic Experience": [
     {
       "name": "Reviewer",
+      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "NeurIPS 2025, 2024 (Top Reviewer)", 
@@ -117,6 +118,7 @@
     },
     {
       "name": "Area Chair",
+      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "IEEE International Conference on Communications 2024 Workshop on Edge Learning"
@@ -125,12 +127,50 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Purdue Graduate Student Government Grant",
+      "date": "2025",
+      "awarder": "Purdue University"
+    },
+    {
+      "title": "ICLR Grant",
+      "date": "2025",
+      "awarder": "ICLR"
+    },
+    {
+      "title": "NeurIPS Top Reviewer",
+      "date": "2024",
+      "awarder": "NeurIPS"
+    },
+    {
+      "title": "NeurIPS Scholar Award",
+      "date": "2023",
+      "awarder": "NeurIPS"
+    },
+    {
+      "title": "Nikola Tesla Electrical Engineering Scholarship",
+      "date": "2020",
+      "awarder": "Columbia University"
+    },
+    {
+      "title": "Outstanding Student Paper Award Finalist on 2020 IEEE MEMS Conference",
+      "date": "2020",
+      "awarder": "IEEE"
+    },
+    {
+      "title": "Honor Student (Top 0.3%)",
+      "date": "2020",
+      "awarder": "Xi’an Jiaotong University"
+    },
+    {
+      "title": "2nd prize as a team leader in ‘Challenge Cup’ National University Students Academic Science 2019 (Top 0.1%)",
+      "date": "2019",
+      "awarder": "Xi’an Jiaotong University"
+    },
+    {
+      "title": "National Scholarship (The highest honor of undergraduate students in China)",
+      "date": "2016-2018",
+      "awarder": "Xi’an Jiaotong University"
+    },
   ],
   "skills": [
     {
