@@ -9,6 +9,7 @@ profile:
   image: selfie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Guangchen (Eric) Lan</p>
     <p>Ph.D. Candidate</p>
     <p>Purdue University, USA</p>
     <p><a href="mailto:lan44@purdue.edu">lan44[at]purdue[dot]edu</a></p>
