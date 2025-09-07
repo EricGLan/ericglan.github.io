@@ -218,13 +218,23 @@
   ],
   "languages": [
     {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Bilingual",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Bilingual",
+      "language": "Mandarin Chinese 中文",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Korean 한국어",
+      "fluency": "Elementary",
+      "icon": ""
+    },
+    {
+      "language": "Spanish español",
+      "fluency": "Elementary",
       "icon": ""
     }
   ],
