@@ -1,0 +1,31 @@
+"academic": [
+    {
+      "name": "Reviewer",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "NeurIPS 2025, 2024 (Top Reviewer)", 
+        "ICLR 2024-2026", 
+        "ICML 2025", 
+        "ICCV 2025", 
+        "AISTATS 2024 - 2026", 
+        "AAAI 2024 - 2026", 
+        "IEEE Global Communications Conference 2023",
+        "Transactions on Machine Learning Research (TMLR)",
+        "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
+        "IEEE Transactions on Mobile Computing",
+        "IEEE Transactions on Networking",
+        "IEEE Transactions on Signal Processing",
+        "IEEE Journal on Selected Areas in Communications (Reinforcement Learning track)",
+        "IEEE Journal of Selected Topics in Signal Processing (Reinforcement Learning track)"
+      ]
+    },
+    {
+      "name": "Area Chair",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "IEEE International Conference on Communications 2024 Workshop on Edge Learning"
+      ]
+    }
+  ],
