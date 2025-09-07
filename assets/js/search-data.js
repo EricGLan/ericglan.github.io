@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hello-world-the-new-personal-website-has-been-launched",
-          title: 'Hello World! The new personal website has been launched.',
+            },},{id: "news-hello-world-the-new-personal-website-has-been-launched-smile",
+          title: 'Hello World! The new personal website has been launched. :smile:',
           description: "",
           section: "News",},{
       id: 'light-theme',
