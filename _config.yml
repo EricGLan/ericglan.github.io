@@ -200,6 +200,8 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - _news/announcement_2.md
+  - _news/announcement_3.md
 keep_files:
   - CNAME
   - .nojekyll
