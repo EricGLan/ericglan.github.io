@@ -15,20 +15,10 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "guangchen-lan",
-        "url": "https://www.linkedin.com/in/guangchen-lan-97420017b/"
-      },
-      {
-        "network": "GitHub",
-        "username": "EricGLan",
-        "url": "https://github.com/EricGLan"
-      },
-      {
         "network": "Twitter",
         "username": "EricGLan",
         "url": "https://twitter.com/EricGLan"
-      },
+      }
     ]
   },
   "work": [
