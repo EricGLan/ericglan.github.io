@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! 👋 I am a PhD candidate at Purdue University.
+Hey! 👋 I am a PhD candidate at <a href="https://www.purdue.edu/">Purdue University</a>.
 
-My research focuses on Reinforcement Learning (RL) Theory and Foundation Model (e.g., LLM) Post-Training, especially Reinforcement Learning with Verifiable Rewards (RLVR) & Reinforcement Learning from Human Feedback (RLHF).
+My research focuses on Reinforcement Learning (<b>RL</b>) Theory and Foundation Model (e.g., <b>LLM</b>) <b>Post-Training</b>, especially Reinforcement Learning with Verifiable Rewards (RLVR) & Reinforcement Learning from Human Feedback (RLHF).
