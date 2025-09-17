@@ -152,14 +152,14 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       <span style="font-weight: bold;">
-        {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+        {% capture entrytype %}<strong>{{ entry.journal }}</strong>{% endcapture %}
       </span>
     {% elsif proceedings contains entry.type %}
       <span style="font-weight: bold;">
-        {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+        {% capture entrytype %}<strong>In {{ entry.booktitle }}</strong>{% endcapture %}
       </span>
     {% elsif thesis contains entry.type %}
-      {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+      {% capture entrytype %}<strong>{{ entry.school }}</strong>{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
