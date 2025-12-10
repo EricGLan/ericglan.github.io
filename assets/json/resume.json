@@ -25,13 +25,13 @@
     {
       "name": "Amazon",
       "location": "Seattle, WA",
-      "position": "Applied Scientist Intern",
+      "position": "Applied Scientist Intern @ Stores Foundational AI ",
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
       "endDate": "2025-11",
-      "mentor": "☕️ Mentor: Dr. Lian Xiong, Dr. Binxuan Huang, Dr. Lihong Li",
-      "summary": "🚀 Topic: Reinforcement Learning with Rubric Rewards for LLMs.",
-      "highlights": ["TBD"]
+      "mentor": "☕️ Mentor: Dr. Lian Xiong, Dr. Lihong Li",
+      "summary": "🚀 Topic: Reinforcement Learning with Contextual Rubric Rewards for LLMs.",
+      "highlights": ["Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy."]
     },
     {
       "name": "Microsoft Research",
@@ -47,7 +47,7 @@
     {
       "name": "Tencent America",
       "location": "Bellevue, WA",
-      "position": "Research Scientist Intern at Tencent AI Lab",
+      "position": "Research Scientist Intern @ Tencent AI Lab",
       "url": "https://www.tencent.com/en-us/about.html",
       "startDate": "2024-05",
       "endDate": "2024-08",
