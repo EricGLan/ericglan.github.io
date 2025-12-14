@@ -43,7 +43,8 @@
       "mentor": "☕️ Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
       "summary": "🚀 Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
       "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."],
-      "Media Coverage": "<a href="https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/" target="_blank">Microsoft Blog</a>"
+      "media": "📄 Media Coverage: Microsoft Blog",
+      "media_url": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/"
     },
     {
       "name": "Tencent America",
