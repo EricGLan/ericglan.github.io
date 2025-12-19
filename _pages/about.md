@@ -31,3 +31,5 @@ latest_posts:
 Hey! 👋 I am a PhD candidate at <a href="https://www.purdue.edu/">Purdue University</a>.
 
 My research focuses on Reinforcement Learning (<b>RL</b>) Theory and Foundation Model (e.g., <b>LLM</b>) Post-Training, especially Reinforcement Learning with Verifiable Rewards (RLVR) & Reinforcement Learning with Unverifiable Rewards (e.g., rubric rewards and RLHF).
+
+I am actively looking for full-time (2026) opportunities in RL/Post-Training/LLM related fields. Feel free to reach me via email lan44[AT]purdue[DOT]edu.
