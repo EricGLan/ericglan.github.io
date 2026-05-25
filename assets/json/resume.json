@@ -5,11 +5,11 @@
     "email": "lan44@purdue.edu",
     "phone": "+1 (917) 371-1980",
     "url": "https://ericglan.github.io/",
-    "summary": "A PhD candidate at Purdue University, working on AI research.",
+    "summary": "My work sits at the intersection of Reinforcement Learning theory and large-scale system building.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3075 Olcott St",
+      "postalCode": "CA 95054",
+      "city": "Santa Clara",
       "countryCode": "US",
       "region": "California"
     },
@@ -25,13 +25,15 @@
     {
       "name": "Amazon",
       "location": "Seattle, WA",
-      "position": "Applied Scientist Intern @ Stores Foundational AI ",
+      "position": "[Inclined] Applied Scientist Intern @ Foundational AI",
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
       "endDate": "2025-11",
       "mentor": "☕️ Mentor: Dr. Lian Xiong, Dr. Lihong Li",
       "summary": "🚀 Topic: Reinforcement Learning with Contextual Rubric Rewards for LLMs.",
-      "highlights": ["Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy."]
+      "highlights": [
+        "Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy."
+      ]
     },
     {
       "name": "Microsoft Research",
@@ -42,7 +44,9 @@
       "endDate": "2025-05",
       "mentor": "☕️ Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
       "summary": "🚀 Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
-      "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."],
+      "highlights": [
+        "Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."
+      ],
       "media": "📄 Media Coverage: Microsoft Blog",
       "media_url": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/"
     },
@@ -55,7 +59,9 @@
       "endDate": "2024-08",
       "mentor": "☕️ Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
       "summary": "🚀 Topic: RLHF for LLM & Diffusion Alignment.",
-      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."]
+      "highlights": [
+        "Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."
+      ]
     }
   ],
   "education": [
@@ -66,7 +72,7 @@
       "area": "Artificial Intelligence",
       "studyType": "Ph.D.",
       "startDate": "2022-08",
-      "endDate": "2026-06"
+      "endDate": "2026-05"
     },
     {
       "institution": "Columbia University",
@@ -101,13 +107,13 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "NeurIPS 2025, 2024 (Top Reviewer)", 
-        "ICLR 2024 - 2026", 
+        "NeurIPS 2024 (Top Reviewer) - 2026",
+        "ICLR 2024 - 2026",
         "ICML 2025 - 2026",
         "ACL 2026",
-        "ICCV 2025", 
-        "AISTATS 2024 - 2026", 
-        "AAAI 2024 - 2026", 
+        "ICCV 2025",
+        "AISTATS 2024 - 2026",
+        "AAAI 2024 - 2026",
         "IEEE Global Communications Conference 2023",
         "Transactions on Machine Learning Research (TMLR)",
         "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
@@ -182,11 +188,11 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python", 
-        "C/C++", 
-        "JavaScript/TypeScript", 
-        "HTML/CSS", 
-        "Solidity", 
+        "Python",
+        "C/C++",
+        "JavaScript/TypeScript",
+        "HTML/CSS",
+        "Solidity",
         "MATLAB",
         "LaTex"
       ]
@@ -197,23 +203,23 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "VERL",
-        "PyTorch", 
-        "TensorFlow", 
-        "Ray/RLlib", 
-        "Sklearn", 
-        "NumPy", 
-        "Pandas", 
-        "MySQL", 
-        "MongoDB", 
-        "Git/GitHub", 
-        "Unix/Linux Shell", 
-        "Docker", 
-        "AWS", 
-        "Azure", 
-        "Google Cloud", 
-        "Hugging Face", 
-        "DeepSpeed", 
-        "Megatron-LM", 
+        "PyTorch",
+        "TensorFlow",
+        "Ray/RLlib",
+        "Sklearn",
+        "NumPy",
+        "Pandas",
+        "MySQL",
+        "MongoDB",
+        "Git/GitHub",
+        "Unix/Linux Shell",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Hugging Face",
+        "DeepSpeed",
+        "Megatron-LM",
         "FSDP"
       ]
     }
@@ -246,10 +252,10 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Chess (Provincial Silver Medal)",
-        "Board Games", 
-        "Powerlifting (PR: Deadlift 445 lbs.)", 
+        "Board Games",
+        "Powerlifting (PR: Deadlift 445 lbs.)",
         "Bodybuilding",
-        "Skiing", 
+        "Skiing",
         "Hiking"
       ]
     }
