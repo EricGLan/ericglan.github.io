@@ -31,9 +31,7 @@
       "endDate": "2025-11",
       "mentor": "☕️ Mentor: Dr. Lian Xiong, Dr. Lihong Li",
       "summary": "🚀 Topic: Reinforcement Learning with Contextual Rubric Rewards for LLMs.",
-      "highlights": [
-        "Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy."
-      ]
+      "highlights": ["Alternating Reinforcement Learning with Contextual Rubric Rewards: Beyond the Scalarization Strategy."]
     },
     {
       "name": "Microsoft Research",
@@ -44,9 +42,7 @@
       "endDate": "2025-05",
       "mentor": "☕️ Mentor: Dr. Huseyin A. Inan, Dr. Robert Sim",
       "summary": "🚀 Topic: LLM Agent Safety via Reasoning & Reinforcement Learning.",
-      "highlights": [
-        "Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."
-      ],
+      "highlights": ["Contextual Integrity in LLMs via Reasoning and Reinforcement Learning. NeurIPS 2025."],
       "media": "📄 Media Coverage: Microsoft Blog",
       "media_url": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/"
     },
@@ -59,9 +55,7 @@
       "endDate": "2024-08",
       "mentor": "☕️ Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
       "summary": "🚀 Topic: RLHF for LLM & Diffusion Alignment.",
-      "highlights": [
-        "Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."
-      ]
+      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."]
     }
   ],
   "education": [
@@ -187,15 +181,7 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "JavaScript/TypeScript",
-        "HTML/CSS",
-        "Solidity",
-        "MATLAB",
-        "LaTex"
-      ]
+      "keywords": ["Python", "C/C++", "JavaScript/TypeScript", "HTML/CSS", "Solidity", "MATLAB", "LaTex"]
     },
     {
       "name": "Tools",
@@ -250,14 +236,7 @@
     {
       "name": "casual",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Chess (Provincial Silver Medal)",
-        "Board Games",
-        "Powerlifting (PR: Deadlift 445 lbs.)",
-        "Bodybuilding",
-        "Skiing",
-        "Hiking"
-      ]
+      "keywords": ["Chess (Provincial Silver Medal)", "Board Games", "Powerlifting (PR: Deadlift 445 lbs.)", "Bodybuilding", "Skiing", "Hiking"]
     }
   ]
 }
