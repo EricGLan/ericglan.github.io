@@ -30,4 +30,4 @@ latest_posts:
 
 Hey! 👋 I am a Senior Research Scientist at <a href="https://www.salesforce.com/ai-research/">Salesforce AI Research</a>.
 
-My research focuses on Reinforcement Learning (<b>RL</b>) and Foundation Model (e.g., <b>LLM</b>) Post-Training, especially Reinforcement Learning with Verifiable Rewards (RLVR) & Reinforcement Learning with Unverifiable Rewards (e.g., rubric rewards and RLHF).
+My research focuses on reinforcement learning (RL) for post-training foundation models, particularly large language models (LLMs). I work on RL with verifiable rewards (RLVR) as well as with non-verifiable rewards, such as rubric-based rewards and human feedback (RLHF). I currently focus on agentic RL and agent safety.
