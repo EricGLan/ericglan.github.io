@@ -17,6 +17,14 @@ $(document).ready(function () {
   });
   $("a").removeClass("waves-effect waves-light");
 
+  // assemble protected email links at runtime so the address is not in the page source
+  $("a.protected-email").each(function () {
+    const address = $(this).data("user") + "@" + $(this).data("domain");
+    $(this)
+      .attr("href", "mailto:" + address)
+      .text(address);
+  });
+
   // bootstrap-toc
   if ($("#toc-sidebar").length) {
     // remove related publications years from the TOC

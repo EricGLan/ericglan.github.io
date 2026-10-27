@@ -12,7 +12,7 @@ profile:
     <p class="position">Senior Research Scientist</p>
     <p class="affiliation"><a href="https://www.salesforce.com/ai-research/">Salesforce AI Research</a></p>
     <p class="profile-location">Palo Alto, CA</p>
-    <p class="email"><i class="fa-solid fa-envelope"></i> <a href="mailto:eric.guangchen.lan@gmail.com">eric.guangchen.lan@gmail.com</a></p>
+    <p class="email"><a class="protected-email" data-user="eric.guangchen.lan" data-domain="gmail.com">eric.guangchen.lan [at] gmail [dot] com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
