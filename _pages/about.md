@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Guangchen (Eric) Lan</p>
-    <p>Senior Research Scientist | Salesforce</p>
-    <p>Palo Alto, CA</p>
+    <p>Senior Research Scientist</p>
+    <p>Salesforce AI Research</p>
+    <p>Palo Alto, CA, USA</p>
     <p><a href="mailto:eric.guangchen.lan@gmail.com">eric.guangchen.lan[at]gmail[dot]com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
