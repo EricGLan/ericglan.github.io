@@ -21,7 +21,7 @@
       }
     ]
   },
-   "work": [
+  "work": [
     {
       "name": "Salesforce",
       "location": "Palo Alto, CA",
@@ -40,7 +40,7 @@
       "endDate": "2026-10",
       "highlights": ["reinforcement learning infra, on-policy distillation."]
     }
-  ],   
+  ],
   "internship": [
     {
       "name": "Amazon",
