@@ -197,12 +197,31 @@ ul.task-list input[type="checkbox"] {
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 0.75rem;
+    line-height: 1.5;
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
+    }
+
+    .position {
+      font-weight: 500;
+    }
+
+    .profile-location {
+      color: var(--global-text-color-light);
+      font-size: 0.9rem;
+    }
+
+    .email {
+      margin-top: 0.4rem;
+      font-size: 0.9rem;
+
+      i {
+        color: var(--global-text-color-light);
+        margin-right: 0.25rem;
+      }
     }
   }
 }
