@@ -2,14 +2,14 @@
   "basics": {
     "name": "Guangchen (Eric) Lan",
     "image": "",
-    "email": "lan44@purdue.edu",
+    "email": "eric.guangchen.lan@gmail.com",
     "phone": "+1 (917) 371-1980",
     "url": "https://ericglan.github.io/",
     "summary": "My work sits at the intersection of Reinforcement Learning theory and large-scale system building.",
     "location": {
-      "address": "3075 Olcott St",
-      "postalCode": "CA 95054",
-      "city": "Santa Clara",
+      "address": "181 Lytton Ave",
+      "postalCode": "CA 94301",
+      "city": "Palo Alto",
       "countryCode": "US",
       "region": "California"
     },
@@ -21,11 +21,31 @@
       }
     ]
   },
-  "work": [
+   "work": [
+    {
+      "name": "Salesforce",
+      "location": "Palo Alto, CA",
+      "position": "Senior Research Scientist",
+      "url": "https://www.salesforce.com/ai-research/",
+      "startDate": "2026-10",
+      "endDate": "present",
+      "highlights": ["agentic RL."]
+    },
+    {
+      "name": "Amazon",
+      "location": "Santa Clara, CA",
+      "position": "Applied Scientist II",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
+      "startDate": "2026-05",
+      "endDate": "2026-10",
+      "highlights": ["reinforcement learning infra, on-policy distillation."]
+    }
+  ],   
+  "Internship": [
     {
       "name": "Amazon",
       "location": "Seattle, WA",
-      "position": "[Inclined] Applied Scientist Intern @ Foundational AI",
+      "position": "[Returnned for full-time] Applied Scientist Intern @ Foundational AI",
       "url": "https://www.aboutamazon.com/news/retail/amazon-rufus",
       "startDate": "2025-08",
       "endDate": "2025-11",
@@ -55,7 +75,7 @@
       "endDate": "2024-08",
       "mentor": "☕️ Mentor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu",
       "summary": "🚀 Topic: RLHF for LLM & Diffusion Alignment.",
-      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization. TMLR."]
+      "highlights": ["Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization."]
     }
   ],
   "education": [
@@ -89,7 +109,7 @@
     {
       "institution": "Xi'an Jiaotong University",
       "location": "Xi'an, CN",
-      "area": "Applied Physics",
+      "area": "Physics",
       "studyType": "Bachelor of Engineering",
       "startDate": "2016-08",
       "endDate": "2020-07"
@@ -102,12 +122,12 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "NeurIPS 2024 (Top Reviewer) - 2026",
-        "ICLR 2024 - 2026",
+        "ICLR 2024 - 2027",
         "ICML 2025 - 2026",
         "ACL 2026",
         "ICCV 2025",
-        "AISTATS 2024 - 2026",
-        "AAAI 2024 - 2026",
+        "AISTATS 2024 - 2027",
+        "AAAI 2024 - 2027",
         "IEEE Global Communications Conference 2023",
         "Transactions on Machine Learning Research (TMLR)",
         "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
