@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers were accepted to NeurIPS 2026! Excited that our papers on [LLM Post-Training](https://openreview.net/forum?id=q5WDC6dLm9#discussion), and [Multi-Agent Model Routing](https://openreview.net/forum?id=yFoPKj8BCA#discussion) were accepted.
+Excited to share that two of our papers, on [LLM post-training](https://openreview.net/forum?id=q5WDC6dLm9#discussion) and [multi-agent model routing](https://openreview.net/forum?id=yFoPKj8BCA#discussion), were accepted to NeurIPS 2026! :tada:
